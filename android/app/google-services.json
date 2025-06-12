@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996292157868",
+    "project_id": "encrypt-decrypt-763f5",
+    "storage_bucket": "encrypt-decrypt-763f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996292157868:android:7b29cfb91f3c4af4735a09",
+        "android_client_info": {
+          "package_name": "com.example.encryption_decryption"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcCeZxLK4o0aein-Y3951xmLTlXUyki2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996292157868:android:8cbc0097492f0fd0735a09",
+        "android_client_info": {
+          "package_name": "com.example.open_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcCeZxLK4o0aein-Y3951xmLTlXUyki2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
